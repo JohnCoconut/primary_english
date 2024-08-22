@@ -1,0 +1,166 @@
+#+title: P1 Grammar
+
+1. Peter______ a wallet at the canteen yesterday.
+(1) find
+(2) finds
+(3) found
+
+2. May I have ______ cookies, please?
+(1) little
+(2) much
+(3) some
+
+3. The aeroplane flew ______ the mountains.
+(1) in
+(2) on
+(3) over
+
+4. "There is ______ ant crawling up my shoe!? Jim shouted.
+(1) a
+(2) an
+(3) the
+
+5. Uncle Bala has three pet dogs. ______ are cute.
+(1) It
+(2) We
+(3) They
+
+6. My cousin wants to visit us on Wednesday ______ nine o'clock in the morning.
+(1) at
+(2) by
+(3) on
+
+7. "This is the ______ ballet performance that I have ever seen!" exclaimed Lizzy.
+(1) good
+(2) best
+(3) better
+
+8. "______ did you get to Sentosa last Friday? Did you walk or drive there?" asked Lydia.
+(1) How
+(2) Who
+(3) Where
+
+9. Charlie and Lola will ______ the Night Safari next month.
+(1) visit
+(2) visits
+(3) visiting
+
+10. Her tired feet ______ better when she removed her shoes.
+(1) felt
+(2) feel
+(3) feels
+
+11. May I have ______ gravy on my rice, please?
+(1) many
+(2) a little
+(3) several
+
+12. The helicopter flies ______ the sky.
+(1) in
+(2) on
+(3) over
+
+13. Sulin ______ her hands before eating the sandwich just now.
+(1) wash
+(2) washes
+(3) washed
+
+14. "______ do you go to school every day?" Mrs Ong asked Lydia when they met at the school gate.
+(1) How
+(2) Why
+(3) What
+
+15. Father took a taxi to work this morning as his car could not ______.
+(1) start
+(2) starts
+(3) started
+
+16. Mrs Ho is ______ principal of my school.
+(1) a
+(2) an
+(3) the
+
+17. My friends ______ me how to play the game yesterday.
+(1) show
+(2) shows
+(3) showed
+(4) showing
+
+18. This is my uncle. ______ works as a policeman.
+(1) It
+(2) He
+(3) She
+(4) They
+
+19. The fish is swimming ______ the tank.
+(1) in
+(2) over
+(3) under
+(4) between
+
+20. The giant is greedy ______ wicked.
+(1) or
+(2) so
+(3) and
+(4) but
+
+21. Peter and Jane are excited. ______ are going to the zoo.
+(1) He
+(2) We
+(3) She
+(4) They
+
+22. My father and I went to the zoo yesterday. ______ saw many animals there.
+(1) He
+(2) We
+(3) They
+
+23. Ali ______ his school shoes last night.
+(1) wash
+(2) washes
+(3) washed
+
+24. The hungry boys ______ to the canteen when the recess bell rings.
+(1) scurry
+(2) scurries
+(3) scurried
+
+25. My school bus arrives ______ seven o'clock every morning.
+(1) in
+(2) on
+(3) at
+
+26. The hardworking men ______ busy at work now. They will need a break soon.
+(1) is
+(2) are
+(3) were
+
+27. The cat is sleeping ______ the carpet.
+(1) in
+(2) on
+(3) over
+(4) between
+
+28. My sister and her friend ______ going to the library later.
+(1) is
+(2) are
+(3) was
+(4) were
+
+29. Mike and I were in the classroom. ______ were doing our school work.
+(1) I
+(2) He
+(3) We
+(4) They
+
+30. Uncle Jim is a bus driver. He ______ a double-decker bus.
+(1) drive
+(2) drives
+(3) drove
+(4) driving
+
+31. Please bring ______ books over there to me.
+(1) this
+(2) that
+(3) these
+(4) those
